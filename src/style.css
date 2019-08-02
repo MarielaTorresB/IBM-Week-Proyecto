@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+img{
+    width: 15vw;
+    height:25vh ;
+}
+.profile-page{
+    height:90vh ;
+    width:100vw ;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    background-color: #FFEA90;
+    border: solid 1px red; 
+  /*   display: none; */
+}
+.navbar{
+    background-color: rgba(255, 85, 54, 0.6);
+    position: relative;
+}
+.nav{
+    display:flex;
+    justify-content: space-around;
+}
+.btn{
+     color: white;
+}
+.picture-main{
+    position: relative;
+    
+}
+.stars{
+    width: 100px;
+    height:70px;
+}
+.user-picture{
+    border-radius:150px;
+    width: 150px;
+    height:150px;
+   }
+
+#picture{
+    width: 100%;
+}
+#title-init{
+    font-family: 'Pacifico', cursive;
+    color: #FF5536;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+.button-sign-in{
+    margin:20px 0px;
+    background-color: #4ABDAC;
+    border: none;
+}
+.register-page{
+    height:100vh ;
+    display:flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #FFEA90;
+}  
+#header-logo{
+    font-family: 'Pacifico', cursive;
+    color: #FF5536;
+    font-size: 25px;
+}
+.container-figure-tend{
+  width: 50vw;
+  height:25vh;
+}    
+.figure-tend{
+    height:100% ;
+    width: 100%;
+}
+.products, .interests{
+    display: flex;
+}
+/* .user-info{
+    display: flex;
+    justify-content:center ;
+    align-items:center;
+} */
