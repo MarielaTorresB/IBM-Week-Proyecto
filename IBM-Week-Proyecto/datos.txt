@@ -1,0 +1,21 @@
+Nombre completo,Ubicación,,,,,,,,
+,,,,,,,,,
+Julieta Cabrera,Ciudad de México,Maquillaje,Clases de fotografía,Clásicos,,,,,
+Rebeca Santiago,Tijuana,,,,,,,,
+Mariela Torres,Guadalajara,,,,,,,,
+Jorge Silva,Ciudad de México,,,,,,,,
+Julio Pastrana,Tijuana,,,,,,,,
+Norma Muñoz,Guadalajara,,,,,,,,
+Patricia Maldonado,Ciudad de México,,,,,,,,
+Óscar Hernández,Tijuana,,,,,,,,
+Rafael Castillo,Guadalajara,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Intereses ,Calzado,Ropa,Belleza y Moda,Electrónica,Cocina,Muebles,Viajes,Conocimiento,Películas y series
+,Botas,Blusas y playeras,Polvos,Computadoras,Licuadoras,Recámaras,Hoteles,Clases de fotografía,Terror
+,Deportivos,Chamarras,Sombras,Tablets,Microondas,Salas,Vuelos,Clases de baile,Comedia
+,Tacones,Jeans,Cejas,Monitores,Hornos,Comedores,Traslados,Clases de matemáticas,Musicales
+,Formales,Lencería,Maquillaje,Fundas y mochilas,Cafeteras,Jardín,Cruceros,Clases de Kung Fu,Ciencia ficción
+,Sandalias,Maternidad,Perfumes,Gamer,Batidoras,Sillas y sillones,Maletas,Clases de guitarra,Guerra
+,Casuales,Sacos,Fijadores,Audífonos,Sartenes,Oficina y estudio,Trajes de baño,Clases de patinaje,Dramáticas
+,Comfort,Vestidos y Faldas,Brochas,Drones,Baterías,Estrenando depa,,Clases de inglés,Clásicos
