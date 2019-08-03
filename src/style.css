@@ -9,6 +9,7 @@ body{
 img{
     width: 15vw;
     height:25vh ;
+    border-radius: 10px;
 }
 .profile-page{
     height:90vh ;
@@ -17,6 +18,7 @@ img{
     grid-template-columns: 1fr 1fr; 
     background-color: #FFEA90;
     border: solid 1px red; 
+    top: 20%;
   /*   display: none; */
 }
 .navbar{
