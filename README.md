@@ -1,6 +1,6 @@
 # IBM-Week-Proyecto
 
-# EL QUE BUSCA ENCUENTRA
+# ENCUENTRA
 
 
 
@@ -50,16 +50,16 @@ Asimismo, 4 de cada 10 no compradores cree que el proceso de compra es inseguro.
 
 ## USER PERSONA
 
+![user](img/user.png)
 
 
+## ENCUENTRA
 
-## EL QUE BUSCA ENCUENTRA
-
-**“El que busca encuentra” es una empresa 100% mexicana que se basa en el trueque de productos/servicios vía Internet, proceso que beneficia el ahorro, contribuye al medio ambiente y beneficia a las pequeñas y medias empresas.**
+**“Encuentra” es una empresa 100% mexicana que se basa en el trueque de productos/servicios vía Internet, proceso que beneficia el ahorro, contribuye al medio ambiente y beneficia a las pequeñas y medias empresas.**
 
 Frida creo una plataforma digital gratuita donde la gente puede intercambiar productos que no utiliza pero funcionan, por otros artículos o incluso servicios profesionales.
 
-Las ventajas de “El que busca encuentra”, son que no descapitaliza a los usuarios, beneficia el ahorro con el intercambio de artículos, contribuye al cuidado del medio ambiente, debido al reciclado de productos, y se beneficia a empresas que van comenzando.
+Las ventajas de “Encuentra”, son que no descapitaliza a los usuarios, beneficia el ahorro con el intercambio de artículos, contribuye al cuidado del medio ambiente, debido al reciclado de productos, y se beneficia a empresas que van comenzando.
 
 La idea es mantenerlo gratuito, pues no tiene sentido ofrecer un servicio que tiene la misión de impulsar el ahorro y pedir que se cobre por su uso , es por eso que la plataforma digital se financia a través de la publicidad.
 
@@ -72,3 +72,14 @@ El uso de la página es sencillo. El primer paso es registrar los datos personal
 
 
 # HISTORIAS DE USUARIO
+
+- Como usuario quiero que mis datos estén protegidos contra todo robo de información
+- Como usuario quiero que las personas con las que interactúe sean confiables 
+- Como usuario quiero ingresar los productos/servicios que ofrezco y ver los productos/servicios que hay
+
+
+# PROTOTIPO DE BAJA FIDELIDAD
+
+![sketch](img/baja.png)
+
+# PROTOTIPO DE ALTA FIDELIDAD
