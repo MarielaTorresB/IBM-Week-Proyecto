@@ -50,7 +50,7 @@ Asimismo, 4 de cada 10 no compradores cree que el proceso de compra es inseguro.
 
 ## USER PERSONA
 
-
+![user](img/user.png)
 
 
 ## EL QUE BUSCA ENCUENTRA
@@ -72,3 +72,18 @@ El uso de la página es sencillo. El primer paso es registrar los datos personal
 
 
 # HISTORIAS DE USUARIO
+
+- Como usuario quiero que mis datos estén protegidos contra todo robo de información
+- Como usuario quiero que las personas con las que interactúe sean confiables 
+- Como usuario quiero ingresar los productos/servicios que ofrezco y ver los productos/servicios que hay
+
+
+# PROTOTIPO DE BAJA FIDELIDAD
+
+![sketch1](img/baja1.jpeg)
+![sketch2](img/baja2.jpeg)
+![sketch3](img/baja3.jpeg)
+![sketch4](img/baja4.jpeg)
+![sketch5](img/baja5.jpeg)
+
+#PROTOTIPO DE ALTA FIDELIDAD
