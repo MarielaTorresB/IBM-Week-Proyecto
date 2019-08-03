@@ -80,10 +80,6 @@ El uso de la página es sencillo. El primer paso es registrar los datos personal
 
 # PROTOTIPO DE BAJA FIDELIDAD
 
-![sketch1](img/baja1.jpeg)
-![sketch2](img/baja2.jpeg)
-![sketch3](img/baja3.jpeg)
-![sketch4](img/baja4.jpeg)
-![sketch5](img/baja5.jpeg)
+![sketch1](img/baja1.jpeg) ![sketch2](img/baja2.jpeg) ![sketch3](img/baja3.jpeg) ![sketch4](img/baja4.jpeg) ![sketch5](img/baja5.jpeg)
 
-#PROTOTIPO DE ALTA FIDELIDAD
+# ROTOTIPO DE ALTA FIDELIDAD
